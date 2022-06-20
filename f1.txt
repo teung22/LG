@@ -4,10 +4,14 @@ bb
 bdccc
 1:55
 
+<<<<<<< HEAD
 master branch
 master branch
 master branch
 master branch
 master branch
 
+=======
+exp branch
+>>>>>>> exp
 
