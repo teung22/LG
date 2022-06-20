@@ -1,0 +1,6 @@
+monday.txt
+a
+bb
+bdccc
+1:55
+
